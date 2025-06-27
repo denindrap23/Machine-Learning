@@ -8,6 +8,9 @@ This project investigates hotel business performance using **Python**, focusing 
 
 The analysis uses `hotel_bookings_data.csv`, processed using **pandas** and **numpy** for data manipulation, and **matplotlib.pyplot** & **seaborn** for clear, communicative data visualization.
 
+> **Source**: Public sample project hosted on GitHub  
+> [View Project on GitHub](https://github.com/denindrap23/Machine-Learning/blob/main/Investigate-Hotel-Business-using-Data-Visualization/Investigate%20Hotel%20Business%20using%20Data%20Visualization.ipynb)
+
 ---
 
 ## Goals
