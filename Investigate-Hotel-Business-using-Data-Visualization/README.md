@@ -38,7 +38,7 @@ Contains customer bookings for **City Hotel** and **Resort Hotel**, with key fie
 
 ---
 
-## ⚙️ Data Preprocessing
+## Data Preprocessing
 
 - **Missing Data Handling:** Imputation and removal as appropriate.  
 - **Data Cleaning:** Standardization of inconsistent categorical and numerical values.  
