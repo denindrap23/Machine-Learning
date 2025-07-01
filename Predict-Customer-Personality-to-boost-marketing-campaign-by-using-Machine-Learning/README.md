@@ -98,21 +98,21 @@ These datasets simulate realistic employee data for demonstration and learning p
 | ![web_visit_cluster](image/web_visit_cluster.png) | ![deal_purchased_cluster](image/deal_purchased_cluster.png) | ![cvr_cluster](image/cvr_cluster.png) |
 
   - Insight
-    - Low Spender:
-      This segment primarily consists of older adults (>55 years) and middle-aged adults (36-55 years), most of whom are married with one child. They visit the website relatively frequently, ranking as the second most active group after Cluster 1, with a median of 5 visits per month. Despite this, they actively seek promotions, using around two promotions per person per month (median). However, this group has the second lowest total annual income and spending among all clusters, with annual income at IDR 57 million and annual spending at IDR 506K.
-
-    - Risk of Churn:
+    - **Risk of Churn**:
       This segment represents the largest user group with 900 customers, dominated by middle-aged adults (36-55 years), mostly married with one child.
 They have the lowest monthly income and spending, with annual income at IDR 33.4 million and annual spending at IDR 57K.
 Interestingly, they visit the website most frequently with a median of 7 visits per month. However, they rarely proceed with transactions or utilize promotions during purchases.
 They also show low campaign responsiveness, with most visits being organic rather than driven by marketing initiatives.
 
-    - Mid Spender:
+    - **Low Spender**:
+      This segment primarily consists of older adults (>55 years) and middle-aged adults (36-55 years), most of whom are married with one child. They visit the website relatively frequently, ranking as the second most active group after Cluster 1, with a median of 5 visits per month. Despite this, they actively seek promotions, using around two promotions per person per month (median). However, this group has the second lowest total annual income and spending among all clusters, with annual income at IDR 57 million and annual spending at IDR 506K.
+
+    - **Mid Spender**:
       This segment is mainly comprised of older adults (>55 years) and middle-aged adults (36-55 years), predominantly married with 0-1 children.
 They hold the second highest total annual income and spending among all clusters, with annual income at IDR 68 million and annual spending at IDR 1.1 million.
 Although they visit the website less frequently, this group responds most actively to campaigns and utilizes promotions most frequently, with an average of 3 promotions used per person per month.
 
-    - High Spender:
+    - **High Spender**:
       This is the smallest user group with 137 customers, dominated by older adults (>55 years) and middle-aged adults (36-55 years), most of whom are single and without children.
 They exhibit the highest annual income and spending across all clusters, with annual income at IDR 80 million and annual spending at IDR 1.2 million.
 While many in this cluster are non-organic visitors driven by campaigns, they use promotions the least compared to other clusters.
