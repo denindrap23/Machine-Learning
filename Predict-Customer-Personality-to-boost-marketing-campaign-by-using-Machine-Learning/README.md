@@ -17,7 +17,7 @@ Understanding customer profiles and transactional behaviors is crucial for desig
 These datasets simulate realistic employee data for demonstration and learning purposes, including employee demographics, job classifications, salary ranges, and exit details.
 
 > **Source**: Public sample dataset hosted on GitHub  
-> [View Dataset on GitHub](https://github.com/denindrap23/Excel/blob/main/HR%20Analytics/dataset)
+> [View Dataset on GitHub](https://github.com/denindrap23/Machine-Learning/blob/main/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/marketing_campaign_data.csv)
 
 ---
 
